@@ -31,26 +31,28 @@ In my free time, I like contributing to open-source projects and helping other p
 <table>
   <tr>
     <th>Main stack</th>
-    <th>Languages</th>
+    <th>Other languages</th>
     <th>Desktop and UI</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,py,git,vscode,jenkins&amp;perline=7" alt="C++, Qt, CMake, Python, Git, VS Code, Jenkins" />
-      <br />
-      <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++17" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Qt%205%2F6-41CD52?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="Qt 5 and Qt 6" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,dart&amp;perline=6" alt="C++, Python, Java, TypeScript, JavaScript, Dart" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=qt,flutter,react,vite,java&amp;perline=5" alt="Qt, Flutter, React, Vite, JavaFX" />
       <br />
-      <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="QML" />
-      <img src="https://img.shields.io/badge/React%20Flow-FF0072?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Flow" />
+      <img src="https://skillicons.dev/icons?i=cmake,py,git,vscode,jenkins&amp;perline=5" alt="CMake, Python, Git, VS Code, Jenkins" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,ts,js,dart&amp;perline=4" alt="Java, TypeScript, JavaScript, Dart" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge" alt="QML" />
       <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge" alt="SFML" />
       <img src="https://img.shields.io/badge/ImGui-2E3440?style=for-the-badge" alt="ImGui" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=flutter,react,vite&amp;perline=3" alt="Flutter, React, Vite" />
+      <br />
+      <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="JavaFX" />
+      <img src="https://img.shields.io/badge/React%20Flow-FF0072?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Flow" />
     </td>
   </tr>
   <tr>
@@ -60,18 +62,17 @@ In my free time, I like contributing to open-source projects and helping other p
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv&amp;perline=1" alt="OpenCV" />
-      <br />
       <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="STL" />
       <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&amp;logo=boost&amp;logoColor=white" alt="Boost" />
       <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&amp;logo=llvm&amp;logoColor=white" alt="LLVM" />
-      <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge" alt="Tesseract OCR" />
       <img src="https://img.shields.io/badge/Multithreading-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Multithreading" />
       <img src="https://img.shields.io/badge/IPC-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="IPC" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=opencv&amp;perline=1" alt="OpenCV" />
+      <br />
+      <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge" alt="Tesseract OCR" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py&amp;perline=1" alt="Python" />
-      <br />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Agents%20SDK-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI Agents SDK" />
       <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
@@ -98,19 +99,21 @@ In my free time, I like contributing to open-source projects and helping other p
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,docker,jenkins,vim&amp;perline=4" alt="VS Code, Visual Studio, IntelliJ IDEA, PyCharm, Docker, Jenkins, Vim" />
-      <br />
       <img src="https://img.shields.io/badge/Qt%20Creator-2E7D32?style=for-the-badge" alt="Qt Creator" />
       <img src="https://img.shields.io/badge/Qt%20Designer-2E7D32?style=for-the-badge" alt="Qt Designer" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=visualstudio,idea,pycharm,docker,vim&amp;perline=5" alt="Visual Studio, IntelliJ IDEA, PyCharm, Docker, Vim" />
+      <br />
       <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
       <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab&amp;perline=3" alt="Git, GitHub, GitLab" />
-      <br />
       <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="GoogleTest" />
       <img src="https://img.shields.io/badge/Catch2-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Catch2" />
       <img src="https://img.shields.io/badge/TDD-2E7D32?style=for-the-badge" alt="TDD" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=github,gitlab&amp;perline=2" alt="GitHub, GitLab" />
+      <br />
       <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="CI/CD" />
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
       <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&amp;logo=subversion&amp;logoColor=white" alt="SVN" />
