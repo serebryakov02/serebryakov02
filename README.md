@@ -51,6 +51,7 @@ In my free time, I like contributing to open-source projects and helping other p
       <br />
       <img src="https://skillicons.dev/icons?i=flutter,react,vite&amp;perline=3" alt="Flutter, React, Vite" />
       <br />
+      <img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java Swing" />
       <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="JavaFX" />
       <img src="https://img.shields.io/badge/React%20Flow-FF0072?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Flow" />
     </td>
@@ -84,11 +85,14 @@ In my free time, I like contributing to open-source projects and helping other p
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram bots" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&amp;perline=3" alt="PostgreSQL, SQLite, MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&amp;perline=3" alt="MySQL, SQLite, PostgreSQL" />
       <br />
       <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" alt="SQL" />
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt="JSON" />
+      <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge" alt="XML" />
       <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge" alt="CSV" />
+      <img src="https://img.shields.io/badge/Binary%20formats-4B5563?style=for-the-badge" alt="Binary formats" />
+      <img src="https://img.shields.io/badge/Custom%20formats-4B5563?style=for-the-badge" alt="Custom formats" />
       <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge" alt="NoSQL" />
     </td>
   </tr>
