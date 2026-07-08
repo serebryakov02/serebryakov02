@@ -31,7 +31,7 @@ In my free time, I like contributing to open-source projects and helping other p
 <table>
   <tr>
     <th>Main stack</th>
-    <th>Other languages</th>
+    <th>C++ ecosystem</th>
     <th>Desktop and UI</th>
   </tr>
   <tr>
@@ -42,7 +42,15 @@ In my free time, I like contributing to open-source projects and helping other p
       <img src="https://skillicons.dev/icons?i=cmake,py,git,vscode,jenkins&amp;perline=5" alt="CMake, Python, Git, VS Code, Jenkins" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,ts,js,dart&amp;perline=4" alt="Java, TypeScript, JavaScript, Dart" />
+      <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="STL" />
+      <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&amp;logo=boost&amp;logoColor=white" alt="Boost" />
+      <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&amp;logo=llvm&amp;logoColor=white" alt="LLVM" />
+      <img src="https://img.shields.io/badge/Multithreading-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Multithreading" />
+      <img src="https://img.shields.io/badge/IPC-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="IPC" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=opencv&amp;perline=1" alt="OpenCV" />
+      <br />
+      <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge" alt="Tesseract OCR" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge" alt="QML" />
@@ -57,22 +65,11 @@ In my free time, I like contributing to open-source projects and helping other p
     </td>
   </tr>
   <tr>
-    <th>C++ ecosystem</th>
     <th>AI and automation</th>
     <th>Data and formats</th>
+    <th>Tools and IDEs</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="STL" />
-      <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&amp;logo=boost&amp;logoColor=white" alt="Boost" />
-      <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&amp;logo=llvm&amp;logoColor=white" alt="LLVM" />
-      <img src="https://img.shields.io/badge/Multithreading-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Multithreading" />
-      <img src="https://img.shields.io/badge/IPC-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="IPC" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=opencv&amp;perline=1" alt="OpenCV" />
-      <br />
-      <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge" alt="Tesseract OCR" />
-    </td>
     <td align="center">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Agents%20SDK-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI Agents SDK" />
@@ -95,13 +92,6 @@ In my free time, I like contributing to open-source projects and helping other p
       <img src="https://img.shields.io/badge/Custom%20formats-4B5563?style=for-the-badge" alt="Custom formats" />
       <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge" alt="NoSQL" />
     </td>
-  </tr>
-  <tr>
-    <th>Tools and IDEs</th>
-    <th>Quality and workflow</th>
-    <th>Platforms and terminal</th>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Qt%20Creator-2E7D32?style=for-the-badge" alt="Qt Creator" />
       <img src="https://img.shields.io/badge/Qt%20Designer-2E7D32?style=for-the-badge" alt="Qt Designer" />
@@ -110,6 +100,16 @@ In my free time, I like contributing to open-source projects and helping other p
       <br />
       <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
       <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
+    </td>
+  </tr>
+  <tr>
+    <th>Other languages</th>
+    <th>Quality and workflow</th>
+    <th>Platforms and terminal</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,ts,js,dart&amp;perline=4" alt="Java, TypeScript, JavaScript, Dart" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="GoogleTest" />
@@ -134,11 +134,9 @@ In my free time, I like contributing to open-source projects and helping other p
 
 ## Open Source
 
-- [Flameshot](https://github.com/flameshot-org/flameshot): cross-platform screenshot software built with C++ and Qt.
-  - [#4769](https://github.com/flameshot-org/flameshot/pull/4769): added an Arrow tool style option for annotation UX.
-  - [#4789](https://github.com/flameshot-org/flameshot/pull/4789): fixed screenshot behavior around GUI last-region settings.
+- [Flameshot](https://github.com/flameshot-org/flameshot): cross-platform screenshot software built with C++ and Qt. You can see my Flameshot pull requests [here](https://github.com/pulls?q=is%3Apr+author%3Aserebryakov02+repo%3Aflameshot-org%2Fflameshot).
 
-I am actively building my open-source contribution record, and this section will grow as more work is reviewed and merged. You can also see my visible pull requests [here](https://github.com/pulls?q=is%3Apr+author%3Aserebryakov02).
+I am actively building my open-source contribution record, and this section will grow as more work is reviewed and merged. You can see all my visible pull requests [here](https://github.com/pulls?q=is%3Apr+author%3Aserebryakov02).
 
 ## Current Direction
 
