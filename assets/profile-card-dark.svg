@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="650" viewBox="0 0 1050 650" role="img" aria-labelledby="title description">
+  <title id="title">Mykyta Serebriakov's engineering profile</title>
+  <desc id="description">A terminal-style summary of Mykyta's experience, technologies, projects, and open-source work.</desc>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 14px;
+      white-space: pre;
+    }
+  </style>
+  <rect x="1" y="1" width="1048" height="648" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <g xml:space="preserve">
+<text x="150" y="52" fill="#3fb950" font-weight="700">mykyta@serebriakov:~$ ./profile --summary</text>
+<text x="150" y="86" fill="#58a6ff" font-weight="700">[identity]</text>
+<text x="150" y="103" fill="#8b949e">role         =</text><text x="276" y="103" fill="#c9d1d9">Software Engineer</text>
+<text x="150" y="120" fill="#8b949e">status       =</text><text x="276" y="120" fill="#c9d1d9">Working full time</text>
+<text x="150" y="137" fill="#8b949e">experience   =</text><text x="276" y="137" fill="#c9d1d9">~3 years professional, ~6 years overall</text>
+<text x="150" y="154" fill="#8b949e">education    =</text><text x="276" y="154" fill="#c9d1d9">B.Sc. in Computer Engineering</text>
+<text x="150" y="188" fill="#58a6ff" font-weight="700">[engineering]</text>
+<text x="150" y="205" fill="#8b949e">core         =</text><text x="276" y="205" fill="#c9d1d9">C++, Qt 5/6, QML, STL, CMake</text>
+<text x="150" y="222" fill="#8b949e">libraries    =</text><text x="276" y="222" fill="#c9d1d9">raylib, SFML, ImGui, OpenCV, Tesseract OCR</text>
+<text x="150" y="239" fill="#8b949e">additional   =</text><text x="276" y="239" fill="#c9d1d9">CUDA, Boost, LLVM</text>
+<text x="150" y="256" fill="#8b949e">systems      =</text><text x="276" y="256" fill="#c9d1d9">Multithreading, IPC</text>
+<text x="150" y="273" fill="#8b949e">quality      =</text><text x="276" y="273" fill="#c9d1d9">GoogleTest, Catch2, TDD</text>
+<text x="150" y="290" fill="#8b949e">delivery     =</text><text x="276" y="290" fill="#c9d1d9">CI/CD, Jenkins</text>
+<text x="150" y="307" fill="#8b949e">platforms    =</text><text x="276" y="307" fill="#c9d1d9">Windows, Linux, macOS</text>
+<text x="150" y="341" fill="#58a6ff" font-weight="700">[additional_technologies]</text>
+<text x="150" y="358" fill="#8b949e">languages    =</text><text x="276" y="358" fill="#c9d1d9">Python, Java</text>
+<text x="150" y="375" fill="#8b949e">java_ui      =</text><text x="276" y="375" fill="#c9d1d9">Swing, JavaFX</text>
+<text x="150" y="392" fill="#8b949e">databases    =</text><text x="276" y="392" fill="#c9d1d9">Relational (SQL) and NoSQL databases</text>
+<text x="150" y="409" fill="#8b949e">ai_tooling   =</text><text x="276" y="409" fill="#c9d1d9">OpenAI, Agents SDK, MCP, RAG, CrewAI, Gradio</text>
+<text x="150" y="426" fill="#8b949e">workflow     =</text><text x="276" y="426" fill="#c9d1d9">Git, GitHub, GitLab, SVN, Docker, Jira, Agile/Scrum</text>
+<text x="150" y="443" fill="#8b949e">ides         =</text><text x="276" y="443" fill="#c9d1d9">Qt Creator, Qt Designer, VS Code, Visual Studio</text>
+<text x="276" y="460" fill="#c9d1d9">IntelliJ IDEA, PyCharm, Vim</text>
+<text x="150" y="477" fill="#8b949e">familiarity  =</text><text x="276" y="477" fill="#c9d1d9">TypeScript, JavaScript, Dart, Flutter</text>
+<text x="276" y="494" fill="#c9d1d9">React, React Flow, Vite</text>
+<text x="150" y="528" fill="#58a6ff" font-weight="700">[work_beyond_work]</text>
+<text x="150" y="545" fill="#8b949e">open_source  =</text><text x="276" y="545" fill="#c9d1d9">Flameshot</text>
+<text x="150" y="562" fill="#8b949e">project      =</text><text x="276" y="562" fill="#c9d1d9">SnipText (current highlight)</text>
+<text x="150" y="579" fill="#8b949e">ai_projects  =</text><text x="276" y="579" fill="#c9d1d9">Finance MCP, portfolio chat, learning paths, news digest</text>
+<text x="150" y="596" fill="#8b949e">next         =</text><text x="276" y="596" fill="#c9d1d9">More contributions and projects to follow</text>
+  </g>
+</svg>
