@@ -19,7 +19,7 @@
 <text x="150" y="154" fill="#57606a">education    =</text><text x="276" y="154" fill="#24292f">B.Sc. in Computer Engineering</text>
 <text x="150" y="188" fill="#0969da" font-weight="700">[engineering]</text>
 <text x="150" y="205" fill="#57606a">core         =</text><text x="276" y="205" fill="#24292f">C++, Qt 5/6, QML, STL, CMake</text>
-<text x="150" y="222" fill="#57606a">libraries    =</text><text x="276" y="222" fill="#24292f">raylib, SFML, ImGui, OpenCV, Tesseract OCR</text>
+<text x="150" y="222" fill="#57606a">libraries    =</text><text x="276" y="222" fill="#24292f">raylib, SFML, ImGui, Tesseract OCR, OpenCV</text>
 <text x="150" y="239" fill="#57606a">additional   =</text><text x="276" y="239" fill="#24292f">CUDA, Boost, LLVM</text>
 <text x="150" y="256" fill="#57606a">systems      =</text><text x="276" y="256" fill="#24292f">Multithreading, IPC</text>
 <text x="150" y="273" fill="#57606a">quality      =</text><text x="276" y="273" fill="#24292f">GoogleTest, Catch2, TDD</text>

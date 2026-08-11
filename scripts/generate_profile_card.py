@@ -55,7 +55,7 @@ PROFILE_LINES = (
     ("blank", ""),
     ("section", "[engineering]"),
     ("field", "core         = C++, Qt 5/6, QML, STL, CMake"),
-    ("field", "libraries    = raylib, SFML, ImGui, OpenCV, Tesseract OCR"),
+    ("field", "libraries    = raylib, SFML, ImGui, Tesseract OCR, OpenCV"),
     ("field", "additional   = CUDA, Boost, LLVM"),
     ("field", "systems      = Multithreading, IPC"),
     ("field", "quality      = GoogleTest, Catch2, TDD"),
