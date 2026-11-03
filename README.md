@@ -36,6 +36,7 @@ In my free time, I like contributing to open-source projects and helping other p
 ## Open Source
 
 - [Flameshot](https://github.com/flameshot-org/flameshot): cross-platform screenshot software built with C++ and Qt. You can see my Flameshot pull requests [here](https://github.com/pulls?q=is%3Apr+author%3Aserebryakov02+repo%3Aflameshot-org%2Fflameshot).
+- [QOwnNotes](https://github.com/pbek/QOwnNotes): cross-platform Markdown note-taking application built with C++ and Qt. You can see my QOwnNotes pull requests [here](https://github.com/pulls?q=is%3Apr+author%3Aserebryakov02+repo%3Apbek%2FQOwnNotes).
 
 I am actively building my open-source contribution record, and this section will grow as more work is reviewed and merged. You can see all my visible pull requests [here](https://github.com/pulls?q=is%3Apr+author%3Aserebryakov02).
 

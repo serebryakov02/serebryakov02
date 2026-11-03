@@ -74,7 +74,7 @@ PROFILE_LINES = (
     ("continuation", "React, React Flow, Vite"),
     ("blank", ""),
     ("section", "[work_beyond_work]"),
-    ("field", "open_source  = Flameshot"),
+    ("field", "open_source  = Flameshot, QOwnNotes"),
     ("field", "project      = SnipText (current highlight)"),
     ("field", "ai_projects  = Finance MCP, portfolio chat, learning paths, news digest"),
     ("field", "next         = More contributions and projects to follow"),
